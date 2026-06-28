@@ -24,6 +24,6 @@
       return;
     }
 
-    res.writeHead(302, { Location: 'https://go.aff.bateu.bet.br/izlubtj1?shareCode=35GSE5AH279&afp=boost&home=1' });
+    res.writeHead(302, { Location: 'https://go.aff.bateu.bet.br/izlubtj1?shareCode=H71FQRMFJU6&afp=boost&home=1' });
     res.end();
   }
