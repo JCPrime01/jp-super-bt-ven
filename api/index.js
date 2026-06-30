@@ -30,7 +30,7 @@
     
     const afp = '&afp=boost'
 
-    const source = '&utm_medium=da'
+    const source = '&utm_medium=ve'
     
     const source = '&home=1'
 
