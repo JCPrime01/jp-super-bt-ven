@@ -30,7 +30,7 @@
     
     const afp = '&afp=ve'
     
-    const source = '&utm_medium=ve'
+    const source = '&home=1'
 
     const destino = new URL(url + shareCode + afp + source)
 
